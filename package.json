@@ -1,0 +1,17 @@
+{
+  "name": "mctoken",
+  "version": "1.0.0",
+  "description": "mckurz ERC20 token",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John McLaughlin",
+  "license": "ISC",
+  "devDependencies": {
+    "openzeppelin-solidity": "^2.5.0"
+  }
+}
